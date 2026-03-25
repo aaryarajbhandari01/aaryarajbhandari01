@@ -1,4 +1,4 @@
-##Hi there 👋, I'm Aarya   
+## Hi there 👋, I'm Aarya   
 QA Engineer | Sydney 🇦🇺  
 
 🔗 Connect with me:  
