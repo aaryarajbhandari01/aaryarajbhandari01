@@ -1,8 +1,16 @@
-Hi there 👋, I'm Aarya   
+##Hi there 👋, I'm Aarya   
 QA Engineer | Sydney 🇦🇺  
 
-Connect with me:  
-https://www.linkedin.com/in/aarya-rajbhandari/
+🔗 Connect with me:  
+[https://www.linkedin.com/in/aarya-rajbhandari](https://www.linkedin.com/in/aarya-rajbhandari/)
+
+📂 Portfolio:  
+[QA Portfolio](https://github.com/aaryarajbhandari01/QA-Portfolio) 
+
+📄 CV: 
+[Aarya Rajbhandari - Resume .pdf](https://github.com/user-attachments/files/26231119/Aarya.Rajbhandari.-.Resume.pdf)
+
+ 
 
 Languages and Tools:
 <p>
