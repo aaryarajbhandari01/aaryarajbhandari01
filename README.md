@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋, I'm Aarya   
+QA Engineer | Sydney 🇦🇺  
 
-<!--
-**aaryarajbhandari01/aaryarajbhandari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:  
+https://www.linkedin.com/in/aarya-rajbhandari/
 
-Here are some ideas to get you started:
+Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,git,github,gitlab,mysql,postman" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-Expert-blue" />
+  <img src="https://img.shields.io/badge/Test%20Case%20Design-Advanced-blue" />
+  <img src="https://img.shields.io/badge/Bug%20Reporting-Advanced-blue" />
+  <img src="https://img.shields.io/badge/Agile-Experienced-blue" />
+</p>
