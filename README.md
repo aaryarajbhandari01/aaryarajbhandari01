@@ -1,3 +1,4 @@
+
 ## Hi there 👋, I'm Aarya   
 QA Engineer | Sydney 🇦🇺  
 
@@ -8,7 +9,7 @@ QA Engineer | Sydney 🇦🇺
 [QA Portfolio](https://github.com/aaryarajbhandari01/QA-Portfolio) 
 
 📄 CV: 
-[Aarya Rajbhandari - Resume .pdf](https://github.com/user-attachments/files/26345502/Aarya.Rajbhandari.-.Resume.pdf)
+[Aarya Rajbhandari - Resume.pdf](https://github.com/user-attachments/files/26745540/Aarya.Rajbhandari.-.Resume.pdf)
 
  
 
